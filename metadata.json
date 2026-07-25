@@ -1,0 +1,6 @@
+{
+  "name": "Task & Project Board",
+  "description": "Collaborative Task and Project Board built with React, Redux, Node/Express, and MongoDB for interactive task, list, and team management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
