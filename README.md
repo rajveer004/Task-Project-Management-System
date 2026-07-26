@@ -6,11 +6,6 @@
 
 A modern full-stack project management platform built with **React, TypeScript, Node.js, Express, MongoDB, Redux Toolkit, Vite, and Google Gemini AI**. It enables teams to manage projects, collaborate in real-time, automate workflows, and leverage AI to boost productivity.
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/task-project-board?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/task-project-board?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/task-project-board?style=for-the-badge)
-![License](https://img.shields.io/github/license/yourusername/task-project-board?style=for-the-badge)
-
 </p>
 
 ---
